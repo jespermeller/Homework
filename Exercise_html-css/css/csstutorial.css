@@ -1,0 +1,49 @@
+﻿body {
+    font-family: Arial;
+}
+
+h1 {
+    background: linear-gradient(lightgray, gray);
+    border-radius: 5px;
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding:0px;
+    border: solid gray 3px;
+    border-radius: 10px;
+    
+}
+ul > li:first-child {
+    border-top: 0 none;
+}
+
+li {
+    
+    padding: 5px;
+    border-top: solid gray 1px;
+}
+
+a{
+    color:black;
+    text-decoration:none;
+}
+
+a:hover{
+    color:skyblue;
+}
+
+h2{
+    font-size: 18px;
+
+}
+
+
+
+
+
+
+

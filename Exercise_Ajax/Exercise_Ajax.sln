@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Ajax", "Exercise_Ajax\Exercise_Ajax.csproj", "{D7E3B9B7-EA11-4AB6-9AA8-F71A26CF4B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_Ajaxa", "..\Exercise_Ajaxa\Exercise_Ajaxa\Exercise_Ajaxa.csproj", "{B24DF2DD-5F18-47F7-B845-C866A7B474B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E3B9B7-EA11-4AB6-9AA8-F71A26CF4B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E3B9B7-EA11-4AB6-9AA8-F71A26CF4B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E3B9B7-EA11-4AB6-9AA8-F71A26CF4B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E3B9B7-EA11-4AB6-9AA8-F71A26CF4B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24DF2DD-5F18-47F7-B845-C866A7B474B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24DF2DD-5F18-47F7-B845-C866A7B474B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24DF2DD-5F18-47F7-B845-C866A7B474B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24DF2DD-5F18-47F7-B845-C866A7B474B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {804BD35C-94E6-4B0E-A76D-EE217C12D0C1}
+	EndGlobalSection
+EndGlobal
